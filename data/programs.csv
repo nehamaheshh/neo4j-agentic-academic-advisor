@@ -1,0 +1,4 @@
+program_id,program_name,degree_type,department,description
+MSDS,MS Data Science,MS,DMS,Graduate program focused on ML systems analytics and applied AI.
+BSCS,BS Computer Science,BS,CSE,Undergraduate program covering systems software databases and algorithms.
+BASTAT,BA Statistics,BA,MTH,Undergraduate program emphasizing probability statistics and modeling.

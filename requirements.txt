@@ -1,0 +1,6 @@
+neo4j==5.25.0
+python-dotenv==1.0.1
+pydantic==2.8.2
+rich==13.8.1
+streamlit==1.41.1
+pandas==2.2.3

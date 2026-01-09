@@ -1,0 +1,31 @@
+course_code,title,department,level,credits,description
+MTH101,Calculus I,MTH,UG,4,Limits derivatives and applications for STEM majors.
+MTH102,Calculus II,MTH,UG,4,Integration techniques sequences series and applications.
+MTH201,Linear Algebra,MTH,UG,3,Vector spaces matrices eigenvalues and linear transformations.
+MTH241,Discrete Mathematics,MTH,UG,3,Logic sets relations combinatorics and graphs fundamentals.
+MTH301,Probability,MTH,UG,3,Random variables distributions expectation and variance.
+MTH302,Statistics,MTH,UG,3,Estimation hypothesis testing regression and confidence intervals.
+CSE115,Intro to Programming,CSE,UG,4,Programming fundamentals variables control flow functions and debugging.
+CSE116,Object-Oriented Programming,CSE,UG,4,Classes objects inheritance polymorphism and design basics.
+CSE191,Intro to Data Structures,CSE,UG,4,Arrays lists stacks queues complexity and basic algorithms.
+CSE220,Systems Programming,CSE,UG,4,C and Unix tools memory pointers and low-level programming.
+CSE250,Data Structures and Algorithms,CSE,UG,4,Trees graphs hashing sorting searching and algorithm analysis.
+CSE305,Database Systems,CSE,UG,3,Relational modeling SQL indexing transactions and normalization.
+CSE310,Software Engineering,CSE,UG,3,Requirements testing version control CI and team development.
+CSE331,Operating Systems,CSE,UG,3,Processes threads scheduling synchronization and virtual memory.
+CSE365,Computer Networks,CSE,UG,3,TCP IP routing DNS congestion and network applications.
+CSE370,Web Application Development,CSE,UG,3,Full stack web development REST APIs and deployment basics.
+CSE404,Machine Learning Foundations,CSE,UG,3,Supervised learning model evaluation overfitting and regularization.
+CSE427,Deep Learning,CSE,UG,3,Neural networks CNNs RNNs training tricks and representation learning.
+CSE435,Information Retrieval,CSE,UG,3,Search ranking evaluation tokenization and vector retrieval methods.
+CSE440,Graph Databases and Neo4j,CSE,UG,3,Property graphs Cypher modeling and graph query optimization.
+DMS201,Intro to Data Science,DMS,UG,3,Data wrangling EDA visualization and basic modeling workflows.
+DMS220,Data Visualization,DMS,UG,3,Design principles dashboards storytelling and visualization libraries.
+DMS301,Data Mining,DMS,UG,3,Clustering association rules anomaly detection and feature engineering.
+DMS330,Natural Language Processing,DMS,UG,3,Text preprocessing embeddings classification and sequence models.
+DMS350,Time Series Analysis,DMS,UG,3,Forecasting stationarity ARIMA and evaluation on temporal data.
+DMS401,Applied Machine Learning,DMS,GR,3,End to end ML pipelines feature stores and deployment patterns.
+DMS420,Big Data Analytics,DMS,GR,3,Distributed computing fundamentals Spark style processing and scaling.
+DMS430,Agentic AI Systems,DMS,GR,3,Tool use planning multi agent orchestration and evaluation.
+DMS440,Knowledge Graphs and RAG,DMS,GR,3,Graph RAG retrieval strategies grounding and multi hop QA.
+DMS450,Capstone Project in Data Science,DMS,GR,3,Team project with requirements design implementation and reporting.
